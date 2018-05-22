@@ -9,4 +9,4 @@ $ jupyter notebook Instacart-EDA-jjs.ipynb
 ```
 
 ## About
-Full details of this kaggle competition are [here:](https://www.kaggle.com/c/instacart-market-basket-analysis)
+Full details of this kaggle competition are [here.](https://www.kaggle.com/c/instacart-market-basket-analysis)
