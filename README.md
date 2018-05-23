@@ -1,5 +1,5 @@
 # Instacart recommendation system - kaggle competition
-This project attempts to answer the question: Which products will and Instacart consumer purchase again? There is a notebook with extensive EDA and another that goes though the machine learning model build, fit and assessment (coming soon). The original data files are not included in this repo but can be found [here.](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+This project attempts to answer the question: Which products will an Instacart customer purchase again? The notebook shows extensive EDA and feature engineering, and will have a prediction model as I work through it. The original data files are not included in this repo but can be found [here.](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 
 
 ## To Run
